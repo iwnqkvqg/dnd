@@ -43,11 +43,11 @@
     "eslint-plugin-storybook": "^10.4.6",
     "jsdom": "^24.1.0",
     "postcss": "^8.5.25",
-    "storybook": "^8.6.17",
+    "storybook": "^8.6.19",
     "storybook-addon-react-router-v6": "^3.0.0",
     "tailwindcss": "^4.3.3",
     "typescript": "^5.2.2",
     "vite": "^8.3.5",
-    "vitest": "^4.1.11"
+    "vitest": "^4.1.12"
   }
 }
